@@ -132,7 +132,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className='col-12'>
+      <div className='col-12 text-muted text-center'>
         <Footers/>
       </div>
 
