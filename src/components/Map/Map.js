@@ -31,7 +31,7 @@ const Map = ({ children, className, ...rest }) => {
   }, []);
 
   return (
-    <MapContainer className={mapClassName} {...rest}>
+    <MapContainer className={mapClassName} {...rest} style={{height: '85vh'}}>
       <MapConsumer>
         {(map) => children(ReactLeaflet, map)}
       </MapConsumer>
