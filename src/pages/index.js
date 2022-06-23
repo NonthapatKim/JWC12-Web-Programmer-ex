@@ -128,12 +128,12 @@ export default function Home() {
               <h1>ทำนายชะตากับหมอหมึก</h1>
               <div className='fs-2'>สามารถจองคิวได้ในเว็บหรือ <br></br> อีเมล: octopus_fortune@teller.com <br></br> โทรศัพท์: 099 XXXX XXX <br></br> และมาที่สำนักงานที่ <br></br> ชั้น 12 อาคาร JWC ถนนโปรแกรมมิ่ง แขวงเว็บ เขตอินเตอร์เน็ต กรุงเทพ 99999 <br></br> ตามวันและเวลาที่นัดไว้ <br></br><br></br> จำกัดที่ 10 คิวต่อวัน เปิดทำการ <br></br> 10.00 - 18.30 น. พัก 12.00 - 13.00 <br></br> เปิดทุกวันอังคารถึงวันเสาร์ หยุดวันจันทร์และวันอาทิตย์</div>
             </div>
-
-            <div className='col-12'>
-              <Footers/>
-            </div>
           </div>
         </div>
+      </div>
+
+      <div className='col-12'>
+        <Footers/>
       </div>
 
     </div>
