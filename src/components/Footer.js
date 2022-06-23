@@ -1,5 +1,5 @@
 export default function Footers() {
     return(
-        <p>Develop by Nonthapat Kimram</p>
+        <p>Is developed By Nonthapat Kimram</p>
     )
 }
